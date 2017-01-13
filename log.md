@@ -33,3 +33,11 @@
 **Thoughts:** Starting a new project is always overwhelming. Writing pseudocode of all the steps I think I'll need helps breaking down the project.
 
 **Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
+
+### Day 5: January 13, 2017
+
+**Today's Progress**: Continued on Free Code Camp's calculator. CE button is working. Able to do operations with decimals. Able to chain operations, ie 1+5/2. Cleaned up the code a little bit.
+
+**Thoughts:** I'm starting to comment my thoughts at the beginning of the file. It's easier to remember.
+
+**Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
