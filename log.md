@@ -25,3 +25,11 @@
 **Link to work:** [Guess the Color - Code](https://github.com/valeriaoshiro/guessTheColor)
 
 **Link to work:** [Guess the Color - Game](http://http://valeriaoshiro.com/guessTheColor/)
+
+### Day 4: January 12, 2017
+
+**Today's Progress**: Started Free Code Camp's calculator. +, -, *, /, and AC are working.
+
+**Thoughts:** Starting a new project is always overwhelming. Writing pseudocode of all the steps I think I'll need helps breaking down the project.
+
+**Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
