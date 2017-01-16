@@ -41,3 +41,11 @@
 **Thoughts:** I'm starting to comment my thoughts at the beginning of the file. It's easier to remember.
 
 **Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
+
+### Day 6: January 15, 2017
+
+**Today's Progress**: Continued on Free Code Camp's calculator. Styled the background and layout of the buttons. 
+
+**Thoughts:** Flexbox is easier than float, however it gets confusing when the flex-direction is changed.
+
+**Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
