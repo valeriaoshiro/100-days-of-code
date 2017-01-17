@@ -49,3 +49,11 @@
 **Thoughts:** Flexbox is easier than float, however it gets confusing when the flex-direction is changed.
 
 **Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
+
+### Day 7: January 16, 2017
+
+**Today's Progress**: Continued on Free Code Camp's calculator. Styled the rest of the project. 
+
+**Thoughts:** Watched some flexbox tutorials. It helped with the layout.
+
+**Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
