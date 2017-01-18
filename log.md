@@ -57,3 +57,13 @@
 **Thoughts:** Watched some flexbox tutorials. It helped with the layout.
 
 **Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
+
+### Day 8: January 17, 2017
+
+**Today's Progress**: Finished Free Code Camp's calculator. 
+
+**Thoughts:** I noticed sometimes I overthink the problem. 
+
+**Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
+
+**Link to work:** [Calculator - Game](http://http://valeriaoshiro.com/calculator/)
