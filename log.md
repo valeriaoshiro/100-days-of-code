@@ -24,7 +24,7 @@
 
 **Link to work:** [Guess the Color - Code](https://github.com/valeriaoshiro/guessTheColor)
 
-**Link to work:** [Guess the Color - Game](http://http://valeriaoshiro.com/guessTheColor/)
+**Link to work:** [Guess the Color - Game](http://valeriaoshiro.com/guessTheColor/)
 
 ### Day 4: January 12, 2017
 
@@ -66,4 +66,4 @@
 
 **Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
 
-**Link to work:** [Calculator - Game](http://http://valeriaoshiro.com/calculator/)
+**Link to work:** [Calculator - Site](http://valeriaoshiro.com/calculator/)
