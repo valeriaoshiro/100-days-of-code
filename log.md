@@ -67,3 +67,11 @@
 **Link to work:** [Calculator - Code](https://github.com/valeriaoshiro/calculator)
 
 **Link to work:** [Calculator - Site](http://valeriaoshiro.com/calculator/)
+
+### Day 9: January 18, 2017
+
+**Today's Progress**: Started to redo my portfolio.
+
+**Thoughts:** I will redo my portfolio one more time. The style will be different. I'm basing it from a PSD file. I'm doing all the changes in the dev branch to not break the code.
+
+**Link to work:** [Portfolio - Code](hhttps://github.com/valeriaoshiro/valeriaoshiro.github.io)
