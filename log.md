@@ -74,4 +74,13 @@
 
 **Thoughts:** I will redo my portfolio one more time. The style will be different. I'm basing it from a PSD file. I'm doing all the changes in the dev branch to not break the code.
 
-**Link to work:** [Portfolio - Code](hhttps://github.com/valeriaoshiro/valeriaoshiro.github.io)
+**Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
+
+### Day 10: January 19, 2017
+
+**Today's Progress**: Continued working on my portfolio. Finished landing page and About section.
+
+**Thoughts:** Designing is hard.
+
+**Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
+
