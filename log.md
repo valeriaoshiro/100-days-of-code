@@ -92,3 +92,11 @@
 
 **Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
 
+### Day 12: January 21, 2017
+
+**Today's Progress**: I volunteered in Girl Develop It's class as a TA.
+
+**Thoughts:** Trying to explain my thoughts is hard. 
+
+**Link to work:** [Girl Develop It LA](https://gdila.org/)
+
