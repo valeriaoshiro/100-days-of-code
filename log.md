@@ -84,3 +84,11 @@
 
 **Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
 
+### Day 11: January 20, 2017
+
+**Today's Progress**: Continued working on my portfolio. Finished layout of Portfolio section. Started on Contact and Footer section.
+
+**Thoughts:** I'm coding instead of watching TV (not a bad thing at all).
+
+**Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
+
