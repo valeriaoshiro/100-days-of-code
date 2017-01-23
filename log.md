@@ -100,3 +100,11 @@
 
 **Link to work:** [Girl Develop It LA](https://gdila.org/)
 
+### Day 13: January 22, 2017
+
+**Today's Progress**: Continued working on my portfolio. 
+
+**Thoughts:** Need to figure out how to do the click effect for the projects.
+
+**Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
+
