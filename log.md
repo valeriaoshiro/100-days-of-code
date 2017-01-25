@@ -108,3 +108,19 @@
 
 **Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
 
+### Day 14: January 23, 2017
+
+**Today's Progress**: Continued working on my portfolio. It's ready for desktop viewing.
+
+**Thoughts:** Need to style for smaller screens.
+
+**Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
+
+### Day 15: January 24, 2017
+
+**Today's Progress**: Finished portfolio.
+
+**Thoughts:** It looks more professional.
+
+**Link to work:** [Portfolio - Site](https://valeriaoshiro.com)
+**Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
