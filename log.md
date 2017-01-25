@@ -125,3 +125,13 @@
 **Link to work:** [Portfolio - Site](http://valeriaoshiro.com)
 
 **Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
+
+### Day 16: January 25, 2017
+
+**Today's Progress**: Worked on portfolio. Added a 'back to top' button, and made navbar fixed at the top.
+
+**Thoughts:** People gave usefull feedback on my portfolio. I implemented them.
+
+**Link to work:** [Portfolio - Site](http://valeriaoshiro.com)
+
+**Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
