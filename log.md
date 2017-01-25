@@ -122,5 +122,6 @@
 
 **Thoughts:** It looks more professional.
 
-**Link to work:** [Portfolio - Site](https://valeriaoshiro.com)
+**Link to work:** [Portfolio - Site](http://valeriaoshiro.com)
+
 **Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
