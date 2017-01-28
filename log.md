@@ -143,3 +143,11 @@
 **Thoughts:** Found Countdown plugin. 
 
 **Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
+
+### Day 18: January 28, 2017
+
+**Today's Progress**: Start, Stop, Reset buttons are working.
+
+**Thoughts:** Testing with seconds. Next is to work on making a sound when the timer is done.
+
+**Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
