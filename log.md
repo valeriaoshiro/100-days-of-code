@@ -135,3 +135,11 @@
 **Link to work:** [Portfolio - Site](http://valeriaoshiro.com)
 
 **Link to work:** [Portfolio - Code](https://github.com/valeriaoshiro/valeriaoshiro.github.io)
+
+### Day 17: January 27, 2017
+
+**Today's Progress**: Started working on Pomodoro Clock.
+
+**Thoughts:** Found Countdown plugin. 
+
+**Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
