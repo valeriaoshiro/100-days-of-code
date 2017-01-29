@@ -151,3 +151,11 @@
 **Thoughts:** Testing with seconds. Next is to work on making a sound when the timer is done.
 
 **Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
+
+### Day 19: January 29, 2017
+
+**Today's Progress**: Makes a sound when the timer is done.
+
+**Thoughts:** First time working with audio.
+
+**Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
