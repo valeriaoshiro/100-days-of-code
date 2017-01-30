@@ -159,3 +159,11 @@
 **Thoughts:** First time working with audio.
 
 **Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
+
+### Day 20: January 30, 2017
+
+**Today's Progress**: Able to loop between work and break.
+
+**Thoughts:** Next is to style the pomodoro clock.
+
+**Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
