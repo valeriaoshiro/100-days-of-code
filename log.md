@@ -167,3 +167,11 @@
 **Thoughts:** Next is to style the pomodoro clock.
 
 **Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
+
+### Day 21: January 31, 2017
+
+**Today's Progress**: Started to style the project.
+
+**Thoughts:** Need to look for more inspiration.
+
+**Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
