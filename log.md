@@ -175,3 +175,13 @@
 **Thoughts:** Need to look for more inspiration.
 
 **Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
+
+### Day 22: February 1, 2017
+
+**Today's Progress**: Finished Pomodoro Clock.
+
+**Thoughts:** Added how many pomodoro sessions you have completed.
+
+**Link to work:** [Pomodoro Clock - Site](http://valeriaoshiro.com/pomodoroClock)
+
+**Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
