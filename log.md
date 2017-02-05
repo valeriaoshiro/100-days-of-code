@@ -185,3 +185,19 @@
 **Link to work:** [Pomodoro Clock - Site](http://valeriaoshiro.com/pomodoroClock)
 
 **Link to work:** [Pomodoro Clock - Code](https://github.com/valeriaoshiro/pomodoroClock)
+
+### Day 23: February 2, 2017
+
+**Today's Progress**: Started to learn about ES6.
+
+**Thoughts:** I bought Wes Bos' course.
+
+**Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
+
+### Day 24: February 4, 2017
+
+**Today's Progress**: Continued to learn about ES6. Learned about arrow functions and string templates.
+
+**Thoughts:** It will be much easier to right strings.
+
+**Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
