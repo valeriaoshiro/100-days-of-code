@@ -201,3 +201,11 @@
 **Thoughts:** It will be much easier to right strings.
 
 **Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
+
+### Day 25: February 5, 2017
+
+**Today's Progress**: Continued to learn about ES6. Learned about tagged template literals and new string methods.
+
+**Thoughts:** 1/4th done!
+
+**Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
