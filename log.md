@@ -209,3 +209,17 @@
 **Thoughts:** 1/4th done!
 
 **Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
+
+### Day 26: February 6, 2017
+
+**Today's Progress**: Learned how to do the snake game in the Learn Teach Code meetup.
+
+**Thoughts:** First time working with canvas.
+
+### Day 27: February 7, 2017
+
+**Today's Progress**: Continued to learn about ES6. Learned about destructuring objects, arrays, functions, and swapping variables.
+
+**Thoughts:** Really interesting. It will make it easier to get variables.
+
+**Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
