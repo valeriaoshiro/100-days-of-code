@@ -239,3 +239,11 @@
 **Thoughts:** Making progress on WP. I need to create more websites to put in the portfolio.
 
 **Link to work:** [Portfolio - Site](http://valeriaoshiro.com)
+
+### Day 30: February 12, 2017
+
+**Today's Progress**: Continued to learn about ES6.
+
+**Thoughts:** --
+
+**Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
