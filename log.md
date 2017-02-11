@@ -223,3 +223,19 @@
 **Thoughts:** Really interesting. It will make it easier to get variables.
 
 **Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
+
+### Day 28: February 8, 2017
+
+**Today's Progress**: Created my first post and page in my WordPress site.
+
+**Thoughts:** The SkillCrush is helpful and I'm starting to get familiar with the WP Admin area.
+
+**Link to work:** No link yet. It is installed in my local machine.
+
+### Day 29: February 10, 2017
+
+**Today's Progress**: Updated my portfolio with my pomodoro clock project. Downloaded and installed a theme in my WP site.
+
+**Thoughts:** Making progress on WP. I need to create more websites to put in the portfolio.
+
+**Link to work:** [Portfolio - Site](http://valeriaoshiro.com)
