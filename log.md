@@ -240,10 +240,10 @@
 
 **Link to work:** [Portfolio - Site](http://valeriaoshiro.com)
 
-### Day 30: February 12, 2017
+### Day 30: February 13, 2017
 
-**Today's Progress**: Continued to learn about ES6.
+**Today's Progress**: Continued to learn about ES6. Learned about array.find() array.findIndex() array.some() array.every() and spread operator. Learned about partials and include in WP
 
-**Thoughts:** --
+**Thoughts:** -- WP is getting harder, with PHP
 
 **Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
