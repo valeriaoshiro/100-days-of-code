@@ -247,3 +247,11 @@
 **Thoughts:** -- WP is getting harder, with PHP
 
 **Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
+
+### Day 31: February 14, 2017
+
+**Today's Progress**: Continued to learn about ES6. Learned about spread operator and ...rest
+
+**Thoughts:** -- half way through the ES6 class
+
+**Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
