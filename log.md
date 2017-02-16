@@ -255,3 +255,11 @@
 **Thoughts:** -- half way through the ES6 class
 
 **Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
+
+### Day 32: February 15, 2017
+
+**Today's Progress**: Read and trying to figure out PHP and WordPress.
+
+**Thoughts:** These partial files, template tags, and loops are giving me a headache.
+
+**Link to work:** No link yet. It's not live.
