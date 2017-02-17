@@ -263,3 +263,11 @@
 **Thoughts:** These partial files, template tags, and loops are giving me a headache.
 
 **Link to work:** No link yet. It's not live.
+
+### Day 33: February 16, 2017
+
+**Today's Progress**: Continued to learn about ES6: promises
+
+**Thoughts:** Need to practice more on promises
+
+**Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
