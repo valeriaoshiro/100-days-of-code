@@ -271,3 +271,11 @@
 **Thoughts:** Need to practice more on promises
 
 **Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
+
+### Day 34: February 17, 2017
+
+**Today's Progress**: Continued to learn about ES6. Symbols: new data type.
+
+**Thoughts:** --
+
+**Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
