@@ -279,3 +279,11 @@
 **Thoughts:** --
 
 **Link to work:** [ES6 - Code](https://github.com/valeriaoshiro/es6.io)
+
+### Day 35: February 18, 2017
+
+**Today's Progress**: Volunteered as TA: Intro to JavaScript for Girl Develop It
+
+**Thoughts:** Didn't code, but code related.
+
+**Link to work:** --
