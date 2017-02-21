@@ -303,3 +303,11 @@
 **Thoughts:** Setup is more work, but will save time with scss.
 
 **Link to work:** [Display - Code](https://github.com/valeriaoshiro/display)
+
+### Day 38: February 21, 2017
+
+**Today's Progress**: Continued Display project. Added nav.
+
+**Thoughts:** Working from a psd file is better because I don't have to make design decisions.
+
+**Link to work:** [Display - Code](https://github.com/valeriaoshiro/display)
