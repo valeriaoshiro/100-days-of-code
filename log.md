@@ -287,3 +287,19 @@
 **Thoughts:** Didn't code, but code related.
 
 **Link to work:** --
+
+### Day 36: February 19, 2017
+
+**Today's Progress**: Learned about Scss. Started a new layout project called Display.
+
+**Thoughts:** Got a psd file to practice on my layouts. Will use Scss.
+
+**Link to work:** [Display - Code](https://github.com/valeriaoshiro/display)
+
+### Day 37: February 20, 2017
+
+**Today's Progress**: Setup the project with Scss. Using CodeKit to compile.
+
+**Thoughts:** Setup is more work, but will save time with scss.
+
+**Link to work:** [Display - Code](https://github.com/valeriaoshiro/display)
