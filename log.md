@@ -311,3 +311,11 @@
 **Thoughts:** Working from a psd file is better because I don't have to make design decisions.
 
 **Link to work:** [Display - Code](https://github.com/valeriaoshiro/display)
+
+### Day 39: February 22, 2017
+
+**Today's Progress**: Reading and watching videos of PHP+WP
+
+**Thoughts:** Using Treehouse's videos
+
+**Link to work:** --
