@@ -319,3 +319,19 @@
 **Thoughts:** Using Treehouse's videos
 
 **Link to work:** --
+
+### Day 40: February 23, 2017
+
+**Today's Progress**: Reading and watching videos of PHP+WP
+
+**Thoughts:** Using Treehouse's videos
+
+**Link to work:** --
+
+### Day 41: February 24, 2017
+
+**Today's Progress**: Reading and watching videos on WP. How to create page template, and custom page template.
+
+**Thoughts:** Using Treehouse's videos
+
+**Link to work:** --
