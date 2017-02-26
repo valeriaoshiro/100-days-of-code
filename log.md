@@ -335,3 +335,19 @@
 **Thoughts:** Using Treehouse's videos
 
 **Link to work:** --
+
+### Day 42: February 25, 2017
+
+**Today's Progress**: GDI's WordPress 101 class (first day). 
+
+**Thoughts:** Thankful for the scholarship opportunity.
+
+**Link to work:** --
+
+### Day 43: February 26, 2017
+
+**Today's Progress**: GDI's WordPress 101 class (second day). 
+
+**Thoughts:** Thankful for the scholarship opportunity.
+
+**Link to work:** --
