@@ -351,3 +351,27 @@
 **Thoughts:** Thankful for the scholarship opportunity.
 
 **Link to work:** --
+
+### Day 44: February 27, 2017
+
+**Today's Progress**: Cont’d learning WordPress and PHP 
+
+**Thoughts:** --
+
+**Link to work:** --
+
+### Day 45: February 28, 2017
+
+**Today's Progress**: More PHP and WordPress. Refresher on JS closure and callbacks.
+
+**Thoughts:** --
+
+**Link to work:** --
+
+### Day 46: March 02, 2017
+
+**Today's Progress**: More PHP and WordPress.
+
+**Thoughts:** Continued to watch WP videos from Treehouse. More templates and custom theme.
+
+**Link to work:** --
