@@ -375,3 +375,35 @@
 **Thoughts:** Continued to watch WP videos from Treehouse. More templates and custom theme.
 
 **Link to work:** --
+
+### Day 47: March 04, 2017
+
+**Today's Progress**: Intro to React with GDI
+
+**Thoughts:** Very interesting class. I was able to get it, but I don't know when I would use it.
+
+**Link to work:** --
+
+### Day 48: March 06, 2017
+
+**Today's Progress**: More PHP and WordPress.
+
+**Thoughts:** Continued to watch WP videos from Treehouse. More templates and custom theme.
+
+**Link to work:** --
+
+### Day 49: March 07, 2017
+
+**Today's Progress**: More PHP and WordPress.
+
+**Thoughts:** Continued to watch WP videos from Treehouse. More templates and custom theme.
+
+**Link to work:** --
+
+### Day 50: March 08, 2017
+
+**Today's Progress**: More PHP and WordPress. Started to learn about Node.js
+
+**Thoughts:** Continued to watch WP videos from Treehouse. Half way there!
+
+**Link to work:** --
