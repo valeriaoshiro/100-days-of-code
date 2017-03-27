@@ -407,3 +407,115 @@
 **Thoughts:** Continued to watch WP videos from Treehouse. Half way there!
 
 **Link to work:** --
+
+### Day 51: March 09, 2017
+
+**Today's Progress**: Node.js in the morning, WordPress at night.
+
+**Thoughts:** Continued to watch WP videos from Treehouse. Continued to watch Node videos from Udemy.
+
+**Link to work:** --
+
+### Day 52: March 10, 2017
+
+**Today's Progress**: Practiced page layouts so I don't forget.
+
+**Thoughts:** Using SCSS
+
+**Link to work:** --
+
+### Day 53: March 12, 2017
+
+**Today's Progress**: Played with Node.js and Express in Cloud9. Learning about routes.
+
+**Thoughts:** --
+
+**Link to work:** --
+
+### Day 54: March 13, 2017
+
+**Today's Progress**: Played with Node.js and Express in Cloud9. Learning about routes.
+
+**Thoughts:** --
+
+**Link to work:** --
+
+### Day 55: March 14, 2017
+
+**Today's Progress**: Learning about EJS for Node. Started with JS templates.
+
+**Thoughts:** --
+
+**Link to work:** --
+
+### Day 56: March 15, 2017
+
+**Today's Progress**: Continued on Node, Express, and EJS. Learned loops, templates and partials.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 57: March 16, 2017
+
+**Today's Progress**: Continued on Node. Learned about POST requests and body-parser.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 58: March 17, 2017
+
+**Today's Progress**: Continued on Node. Review about APIs, but this time the request is from the backend.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 59: March 20, 2017
+
+**Today's Progress**: Created a basic form to search movies using Node, Express, EJS, Request and APIs.
+
+**Thoughts:** From udemy course. Using omdbapi.com
+
+**Link to work:** --
+
+### Day 60: March 21, 2017
+
+**Today's Progress**: Created a basic form to search movies using Node, Express, EJS, Request and APIs.
+
+**Thoughts:** From udemy course. Using omdbapi.com
+
+**Link to work:** --
+
+### Day 61: March 22, 2017
+
+**Today's Progress**: Finished SkillCrush 105 course: Git, Github and the command line.
+
+**Thoughts:** This was a little of review. But learned some new tricks. Like pull requests, and merge conflicts.
+
+**Link to work:** --
+
+### Day 62: March 23, 2017
+
+**Today's Progress**: Started a new project with Node. Doing the YelpCamp.
+
+**Thoughts:** I'm liking backend better than frontend?
+
+**Link to work:** --
+
+### Day 63: March 24, 2017
+
+**Today's Progress**: Continued on Node project. Now starting to learn about databases.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 64: March 27, 2017
+
+**Today's Progress**: Started to learn about MongoDB and Mongoose.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
