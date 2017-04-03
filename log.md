@@ -519,3 +519,36 @@
 **Thoughts:** From udemy course.
 
 **Link to work:** --
+
+### Day 65: March 28, 2017
+
+**Today's Progress**: Connected MongoDB to Express app
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 66: March 29, 2017
+
+**Today's Progress**: Started on RESTful routes and read 1 chapter of "Code".
+
+**Thoughts:** Who knew that Braille has an influence in coding.
+
+**Link to work:** --
+
+### Day 66: March 30, 2017
+
+**Today's Progress**: Continue learning about RESTful routes, MongoDB and Node
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 67: March 31, 2017
+
+**Today's Progress**: Continue learning about RESTful routes, MongoDB and Node
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
