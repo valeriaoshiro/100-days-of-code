@@ -576,3 +576,66 @@
 
 **Link to work:** --
 
+### Day 71: April 5, 2017
+
+**Today's Progress**: Styled the blog using Bootstrap. Tomorrow will be Edit and Update routes.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 72: April 6, 2017
+
+**Today's Progress**: Work on RESTFul's edit and update.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 73: April 9, 2017
+
+**Today's Progress**: Finally finished learning about RESTful routes / CRUD
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 74: April 10, 2017
+
+**Today's Progress**: Learned how to deploy to Heroku.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 75: April 11, 2017
+
+**Today's Progress**: Still having trouble with C9, so I reviewd WordPress.
+
+**Thoughts:** --
+
+**Link to work:** --
+
+### Day 76 & 77: April 13, 2017
+
+**Today's Progress**: Watching anotehr WordPress tutorial. This time from a entrepreneur perspective.
+
+**Thoughts:** Another udemy course.
+
+**Link to work:** --
+
+### Day 78 & 79: April 16, 2017
+
+**Today's Progress**: Keep learning about WP and freelance.
+
+**Thoughts:** --
+
+**Link to work:** --
+
+### Day 80 & 81: April 18, 2017
+
+**Today's Progress**: Still learning about WP and freelance. Just learned about Genesis framework and Parallax.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
