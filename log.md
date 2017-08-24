@@ -552,3 +552,27 @@
 
 **Link to work:** --
 
+### Day 68: April 1, 2017
+
+**Today's Progress**: Continue learning about RESTful routes, MongoDB and Node
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 69: April 3, 2017
+
+**Today's Progress**: Today is review. I need a refresher. Reading notes from HTML, CSS, and JavaScript.
+
+**Thoughts:** Review!
+
+**Link to work:** --
+
+### Day 70: April 4, 2017
+
+**Today's Progress**: Creating a blog with Node and MongoDB.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
