@@ -639,3 +639,51 @@
 **Thoughts:** From udemy course.
 
 **Link to work:** --
+
+### Day 82: April 19, 2017
+
+**Today's Progress**: Learned about premium plugins and wpmudev for WordPress
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 83 & 84: April 21, 2017
+
+**Today's Progress**: More WordPress, freelancing and the book Code.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 85 & 86: April 24, 2017
+
+**Today's Progress**: Still working on WordPress.
+
+**Thoughts:** From udemy course.
+
+**Link to work:** --
+
+### Day 87: April 25, 2017
+
+**Today's Progress**: I went to a new Meetup. It was small but very friendly. I got my questions answered.
+
+**Thoughts:** WP meetup.
+
+**Link to work:** --
+
+### Day 88 & 89: April 27, 2017
+
+**Today's Progress**: Redoing my portfolio page.
+
+**Thoughts:** --
+
+**Link to work:** --
+
+### Day 90 & 91: April 30, 2017
+
+**Today's Progress**: Finished redoing my portfolio.
+
+**Thoughts:** Need to make my portfolio live.
+
+**Link to work:** --
