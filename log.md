@@ -687,3 +687,67 @@
 **Thoughts:** Need to make my portfolio live.
 
 **Link to work:** --
+
+### Day 92: May 1, 2017
+
+**Today's Progress**: I broke my site. I need 48 hours to DNS to point to the new host
+
+**Thoughts:** Need to make my portfolio live.
+
+**Link to work:** --
+
+### Day 93: May 2, 2017
+
+**Today's Progress**: My portfolio is live!
+
+**Thoughts:** --
+
+**Link to work:** [Link to portfolio](https://valeriaoshiro.com)
+
+### Day 94 & 95: May 4, 2017
+
+**Today's Progress**: Continued on WordPress.
+
+**Thoughts:** Got my first client!
+
+**Link to work:** --
+
+### Day 96: May 6, 2017
+
+**Today's Progress**: Attended ZipRecruiter's Hackathon, hosted by General Assembly.
+
+**Thoughts:** I still need to study and learn more.
+
+**Link to work:** --
+
+### Day 97: May 7, 2017
+
+**Today's Progress**: Setting up an e-commerce site new client.
+
+**Thoughts:** I'm excited and nervous.
+
+**Link to work:** --
+
+### Day 98: May 9, 2017
+
+**Today's Progress**: Working on WordPress site.
+
+**Thoughts:** --
+
+**Link to work:** --
+
+### Day 99: May 10, 2017
+
+**Today's Progress**: Still working on client's WP site. Reviewed JS so I don't forget.
+
+**Thoughts:** One more day!
+
+**Link to work:** --
+
+### Day 100: May 11, 2017
+
+**Today's Progress**: Finished! Worked on WP site, and attended GDIOC meetup.
+
+**Thoughts:** Finished!
+
+**Link to work:** --
