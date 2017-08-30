@@ -11,3 +11,16 @@
 [Factorial](https://github.com/valeriaoshiro/DataStructure-Algorithms/blob/master/recursion/factorial.js)
 
 [Fibonacci](https://github.com/valeriaoshiro/DataStructure-Algorithms/blob/master/recursion/fibonacci.js)
+
+### Day 2: August 29, 2017
+
+**Today's Progress:** Continue on Lagos. Need to practice recursion gcd -_-    
+
+**Thoughts:** Recursion is tough
+
+**Link to work:**
+
+[Flatten](https://github.com/valeriaoshiro/DataStructure-Algorithms/blob/master/recursion/flatten.js)
+
+[GreatestCommonDivisor - not done](https://github.com/valeriaoshiro/DataStructure-Algorithms/blob/master/recursion/greatestCommonDivisor.js)
+
