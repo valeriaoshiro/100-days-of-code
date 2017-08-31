@@ -14,7 +14,7 @@
 
 ### Day 2: August 29, 2017
 
-**Today's Progress:** Continue on Lagos. Need to practice recursion gcd -_-    
+**Today's Progress:** Continue on algos. Need to practice recursion gcd -_-    
 
 **Thoughts:** Recursion is tough
 
@@ -24,3 +24,12 @@
 
 [GreatestCommonDivisor - not done](https://github.com/valeriaoshiro/DataStructure-Algorithms/blob/master/recursion/greatestCommonDivisor.js)
 
+### Day 3: August 30, 2017
+
+**Today's Progress:** Implemented bubble sort, insertion sort, and read about breath first algorithm  
+
+**Thoughts:** Today's lecture was all about CS Fundamentals
+
+**Link to work:**
+
+[Data Structure and algorithms repo](https://github.com/valeriaoshiro/DataStructure-Algorithms)
