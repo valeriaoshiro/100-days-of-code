@@ -91,3 +91,44 @@
 **Link to work:**
 
 [Podcast Pals repo](https://github.com/valeriaoshiro/podcast-pals)
+
+### Day 10: September 6, 2017
+
+**Today's Progress:** Project is able to save and retrieve information from the database. It's now a full stack 
+
+**Thoughts:** React is giving me a hard time...
+
+**Link to work:**
+
+[Podcast Pals repo](https://github.com/valeriaoshiro/podcast-pals)
+
+### Day 11: September 7, 2017
+
+**Today's Progress:** Putting the final touches to my podcast sharing app. Need to work on styling and README.
+
+**Thoughts:** Last day before presentation. Pretty stressed out. I was working on a bug, but I took a break to take the train home. I was able to solve the bug after the break, crazy...
+
+**Link to work:**
+
+[Podcast Pals repo](https://github.com/valeriaoshiro/podcast-pals)
+
+### Day 12: September 8, 2017
+
+**Today's Progress:** PODCAST PALS is live! Find what your friends are listening to podcast-pals.herokuapp.com 
+
+**Thoughts:** I twitted that my app was live, nerve-wracking. Last day of bootcamp. Bitter sweet...
+
+**Link to work:**
+
+[Podcast Pals repo](https://github.com/valeriaoshiro/podcast-pals)
+[Podcast Pals app](https://podcast-pals.herokuapp.com)
+
+### Day 13: September 10, 2017
+
+**Today's Progress:** Implemented bubble, section, and insertion sorts with two arrays. 
+
+**Thoughts:** 
+
+**Link to work:**
+
+[Sorting repo](https://github.com/valeriaoshiro/DataStructure-Algorithms/tree/master/sorting)
